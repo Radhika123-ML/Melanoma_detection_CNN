@@ -19,10 +19,15 @@ The dataset used in this project consists of 2357 images of malignant and benign
 
 ## Conclusions
 -The CNN model achieved a commendable accuracy on the validation set, indicating its effectiveness in detecting melanoma.
+
 -Data augmentation was instrumental in enhancing the model's performance, mitigating overfitting, and improving its ability to generalize.
+
 -Analysis of class distribution highlighted areas for potential improvement in the dataset
+
 -The model successfully addressed class imbalances, resulting in a more balanced dataset and improved model performance.
--The training and validation accuracy showed consistent improvement over epochs, with the model achieving approximately 75% accuracy on the validation set.
+
+-The training and validation accuracy showed consistent improvement over epochs, with the model achieving approximately 70% accuracy on the validation set.
+
 -The gap between training and validation accuracy reduced significantly, indicating improved generalization of the model to unseen data.
 
 ## Technologies Used
